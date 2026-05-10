@@ -1,0 +1,16 @@
+id: pros-cons
+title: 权衡分析
+category: [general, analysis]
+content: |
+  请对以下两个选项进行客观的权衡分析：
+
+  选项 A：{{option_a}}
+  选项 B：{{option_b}}
+  评估场景：{{context}}
+
+  输出格式：
+  | 维度 | 选项 A | 选项 B |
+  |------|--------|--------|
+  | ...  | ...    | ...    |
+
+  结论与建议：

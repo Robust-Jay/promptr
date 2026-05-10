@@ -1,0 +1,11 @@
+id: explain-concept
+title: 解释概念
+category: [general, explanation]
+content: |
+  请用简洁易懂的语言解释 {{concept}} 是什么。
+
+  要求：
+  1. 用类比帮助理解
+  2. 说明核心要点
+  3. 适合 {{audience_level}} 阅读
+  4. 如有必要，给出实际例子

@@ -1,0 +1,14 @@
+id: debug
+title: 调试问题
+category: [code, debugging]
+content: |
+  我的 {{language}} 代码出现了以下问题：
+
+  预期行为：{{expected}}
+  实际行为：{{actual}}
+  错误信息：{{error}}
+
+  请帮助诊断问题原因并给出修复建议。
+
+  代码：
+  {{code}}

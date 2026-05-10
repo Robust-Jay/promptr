@@ -1,0 +1,12 @@
+id: brainstorming
+title: 头脑风暴
+category: [general, ideation]
+content: |
+  我正在思考关于 {{topic}} 的方案，请帮我进行头脑风暴：
+
+  1. 列出至少 5 个可能的解决思路
+  2. 对每个思路简要说明优缺点
+  3. 提出我可能忽略的角度
+
+  背景信息：
+  {{context}}

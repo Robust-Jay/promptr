@@ -1,0 +1,14 @@
+id: blog-post
+title: 撰写博客文章
+category: [writing, blog]
+content: |
+  请撰写一篇关于 {{topic}} 的博客文章。
+
+  目标读者：{{audience}}
+  风格：{{style}}
+  字数：约 {{word_count}} 字
+
+  文章结构：
+  1. 引人入胜的开头
+  2. 核心内容分点展开
+  3. 总结和行动建议

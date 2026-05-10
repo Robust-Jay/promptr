@@ -1,0 +1,13 @@
+id: explain-code
+title: 解释代码逻辑
+category: [code, explanation]
+content: |
+  请详细解释以下 {{language}} 代码的工作原理：
+
+  1. 整体功能概述
+  2. 核心逻辑逐步分析
+  3. 关键算法或数据结构说明
+  4. 值得注意的设计模式或技巧
+
+  代码：
+  {{code}}

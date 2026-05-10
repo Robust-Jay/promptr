@@ -1,0 +1,13 @@
+id: unit-test
+title: 生成单元测试
+category: [code, testing]
+content: |
+  请为以下 {{language}} 代码编写完整的单元测试，使用 {{framework}} 框架。
+  要求覆盖：
+  1. 正常路径
+  2. 边界情况
+  3. 异常处理
+  4. 空值/null处理
+
+  代码：
+  {{code}}

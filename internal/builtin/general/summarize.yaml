@@ -1,0 +1,12 @@
+id: summarize
+title: 总结内容
+category: [general, summary]
+content: |
+  请对以下内容进行总结：
+
+  1. 用一句话概括核心观点
+  2. 列出 3-5 个关键要点
+  3. 如有数据或结论，突出呈现
+
+  内容：
+  {{content}}

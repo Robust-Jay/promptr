@@ -1,0 +1,14 @@
+id: documentation
+title: 生成文档
+category: [writing, documentation]
+content: |
+  请为以下 {{language}} {{component_type}} 生成文档：
+
+  要求：
+  1. 功能描述
+  2. 使用示例
+  3. API 参数说明
+  4. 注意事项
+
+  代码：
+  {{code}}

@@ -1,0 +1,10 @@
+id: email-draft
+title: 撰写邮件
+category: [writing, email]
+content: |
+  请帮我撰写一封 {{tone}} 风格的邮件。
+
+  收件人：{{recipient}}
+  主题：{{subject}}
+  要点：
+  {{points}}

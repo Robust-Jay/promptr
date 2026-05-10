@@ -1,0 +1,14 @@
+id: refactor
+title: 重构代码
+category: [code, refactoring]
+content: |
+  请重构以下 {{language}} 代码，目标：
+
+  1. 提高可读性
+  2. 消除重复代码
+  3. 简化复杂逻辑
+  4. 改进命名
+  5. 保持原有功能不变
+
+  代码：
+  {{code}}

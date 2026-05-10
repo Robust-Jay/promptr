@@ -1,0 +1,19 @@
+id: meeting-summary
+title: 会议纪要
+category: [writing, meeting]
+content: |
+  请根据以下会议记录生成一份结构化的会议纪要：
+
+  会议主题：{{topic}}
+  日期：{{date}}
+  参会人：{{attendees}}
+
+  格式要求：
+  1. 会议目标
+  2. 讨论要点
+  3. 决议事项
+  4. 行动项（负责人+截止日期）
+  5. 下次会议安排
+
+  会议记录：
+  {{notes}}
